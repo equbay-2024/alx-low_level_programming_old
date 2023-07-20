@@ -1,3 +1,4 @@
+/*Auth:equbay Gebrehanes*/
 #include "main.h"
 
 /**
@@ -9,9 +10,9 @@
 
 */
 
-/* Fnction addition*/
+/* Function addition*/
 
-int add (int a, int b)
+int add(int a, int b)
 
 {
 
