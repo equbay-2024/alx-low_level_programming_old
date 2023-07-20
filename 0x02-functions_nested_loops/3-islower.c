@@ -1,7 +1,6 @@
 /*
  * File: 3-islower.c
  * Auth: Equbay Gebrehanes
- 
  */
 
 #include "main.h"
@@ -12,7 +11,8 @@
  *
  * Return: 1 if character is lowercase, 0 otherwise.
  */
-int _islower (int c)
+
+int _islower(int c)
 
 {
 
