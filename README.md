@@ -1,2 +1,1 @@
-# alx-low_level_programming
-I'm now a ALX Student, this is my first repository as a full-stack engineer
+0x14. C - Bit manipulation project by equbay
